@@ -1,0 +1,4 @@
+name: AIProfanityFilter
+version: '1.0'
+main: net.bytecore.aiprofanityfilter.Profanity
+api-version: '1.13'
